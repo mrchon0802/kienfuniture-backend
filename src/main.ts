@@ -1,3 +1,5 @@
+// src/main.ts
+
 import cookieParser from 'cookie-parser';
 import mongoose from 'mongoose';
 import { NestFactory } from '@nestjs/core';
@@ -11,7 +13,7 @@ async function bootstrap() {
 
   app.enableCors({
     origin: [
-      /^https:\/\/kiennoithat(-[\w-]+)?\.vercel\.app$/, // preview + production
+      /^https:\/\/kien-furniture(-[\w-]+)?\.vercel\.app$/, // preview + production
       'http://localhost:3000',
     ],
     methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH', 'OPTIONS'],
@@ -19,7 +21,7 @@ async function bootstrap() {
   });
 
   console.log('✅ CORS enabled for:', [
-    'https://kiennoithat.vercel.app',
+    'https://kien-furniture.vercel.app',
     'http://localhost:3000',
   ]);
 
