@@ -1,0 +1,542 @@
+[
+  {
+    "productId": "giuong-ngu-doi",
+    "image": "/images/giuong-ngu-doi.png",
+    "title": "Giường ngủ đôi",
+    "price": 6500000,
+    "discountPrice": 5400000,
+    "room": ["bed-room"],
+    "category": "bed",
+    "type": "hero",
+    "weight": 85,
+    "width": 1.6,
+    "length": 2.0,
+    "height": 1.0,
+    "materials": null,
+    "colors": [
+      {
+        "name": "Blonde Surfside Ash",
+        "image": "/material-color/K525.jpg",
+        "productImage": "/images/giuong-ngu-doi.png"
+      },
+      {
+        "name": "Tobacco Franklin Walnut",
+        "image": "/material-color/K547.jpg",
+        "productImage": "/images/giuong-mau-nau.png"
+      }
+    ]
+  },
+  {
+    "productId": "ban-an",
+    "image": "/images/ban-an.png",
+    "title": "Bàn ăn",
+    "price": 5200000,
+    "discountPrice": 4320000,
+    "room": ["kitchen"],
+    "category": "table",
+    "type": "hero",
+    "weight": 60,
+    "width": 1.6,
+    "length": 0.9,
+    "height": 0.75,
+    "materials": null,
+    "colors": [
+      {
+        "name": "Blonde Surfside Ash",
+        "image": "/material-color/K525.jpg",
+        "productImage": "/images/ban-an.png"
+      },
+      {
+        "name": "Tobacco Franklin Walnut",
+        "image": "/material-color/K547.jpg",
+        "productImage": "/images/ban-an-nau.png"
+      }
+    ]
+  },
+  {
+    "productId": "ban-trang-diem",
+    "image": "/images/ban-trang-diem.png",
+    "title": "Bàn trang điểm",
+    "price": 4200000,
+    "discountPrice": 3490000,
+    "room": ["bed-room"],
+    "category": "table",
+    "type": "hero",
+    "weight": 35,
+    "width": 1.2,
+    "length": 0.5,
+    "height": 0.75,
+    "materials": null,
+    "colors": [
+      {
+        "name": "Blonde Surfside Ash",
+        "image": "/material-color/K525.jpg",
+        "productImage": "/images/ban-trang-diem.png"
+      },
+      {
+        "name": "Tobacco Franklin Walnut",
+        "image": "/material-color/K547.jpg",
+        "productImage": "/images/ban-trang-diem-nau.png"
+      }
+    ]
+  },
+  {
+    "productId": "sofa-doi",
+    "image": "/images/sofa-doi.png",
+    "title": "Sofa đôi",
+    "price": 7800000,
+    "discountPrice": 6470000,
+    "room": ["living-room"],
+    "category": "sofa",
+    "type": "hero",
+    "weight": 70,
+    "width": 1.8,
+    "length": 0.85,
+    "height": 0.85,
+    "materials": ["Vải linen", "Vải nhung", "Da tổng hợp"],
+    "colors": [
+      {
+        "name": "Blonde Surfside Ash",
+        "image": "/material-color/K525.jpg",
+        "productImage": "/images/sofa-doi.png"
+      },
+      {
+        "name": "Tobacco Franklin Walnut",
+        "image": "/material-color/K547.jpg",
+        "productImage": "/images/sofa-doi-nau.png"
+      }
+    ]
+  },
+  {
+    "productId": "tu-quan-ao",
+    "image": "/images/tu-quan-ao.png",
+    "title": "Tủ quần áo",
+    "price": 8200000,
+    "discountPrice": 6810000,
+    "room": ["bed-room"],
+    "category": "cabinet",
+    "type": "hero",
+    "weight": 120,
+    "width": 1.8,
+    "length": 0.6,
+    "height": 2.2,
+    "materials": null,
+    "colors": [
+      {
+        "name": "Blonde Surfside Ash",
+        "image": "/material-color/K525.jpg",
+        "productImage": "/images/tu-quan-ao.png"
+      },
+      {
+        "name": "Tobacco Franklin Walnut",
+        "image": "/material-color/K547.jpg",
+        "productImage": "/images/tu-quan-ao-nau.png"
+      }
+    ]
+  },
+  {
+    "productId": "giuong-ngu-don",
+    "image": "/images/giuong-ngu-don.png",
+    "title": "Giường ngủ đơn",
+    "price": 4200000,
+    "discountPrice": 3490000,
+    "room": ["bed-room"],
+    "category": "bed",
+    "type": "normal",
+    "weight": 55,
+    "width": 1.2,
+    "length": 2.0,
+    "height": 1.0,
+    "materials": null,
+    "colors": [
+      {
+        "name": "Blonde Surfside Ash",
+        "image": "/material-color/K525.jpg",
+        "productImage": "/images/giuong-ngu-don.png"
+      },
+      {
+        "name": "Tobacco Franklin Walnut",
+        "image": "/material-color/K547.jpg",
+        "productImage": "/images/giuong-ngu-don-nau.png"
+      }
+    ]
+  },
+  {
+    "productId": "ban-tra-phong-khach",
+    "image": "/images/ban-tra-phong-khach.png",
+    "title": "Bàn trà phòng khách",
+    "price": 2800000,
+    "discountPrice": 2320000,
+    "room": ["living-room"],
+    "category": "table",
+    "type": "normal",
+    "weight": 28,
+    "width": 1.2,
+    "length": 0.6,
+    "height": 0.45,
+    "materials": null,
+    "colors": [
+      {
+        "name": "Blonde Surfside Ash",
+        "image": "/material-color/K525.jpg",
+        "productImage": "/images/ban-tra.png"
+      },
+      {
+        "name": "Tobacco Franklin Walnut",
+        "image": "/material-color/K547.jpg",
+        "productImage": "/images/ban-tra-nau.png"
+      }
+    ]
+  },
+  {
+    "productId": "ke-tivi",
+    "image": "/images/ke-tivi.png",
+    "title": "Kệ tivi",
+    "price": 3800000,
+    "discountPrice": 3150000,
+    "room": ["living-room"],
+    "category": "other",
+    "type": "normal",
+    "weight": 45,
+    "width": 1.6,
+    "length": 0.4,
+    "height": 0.5,
+    "materials": null,
+    "colors": [
+      {
+        "name": "Blonde Surfside Ash",
+        "image": "/material-color/K525.jpg",
+        "productImage": "/images/ke-tivi.png"
+      },
+      {
+        "name": "Tobacco Franklin Walnut",
+        "image": "/material-color/K547.jpg",
+        "productImage": "/images/ke-tivi-nau.png"
+      }
+    ]
+  },
+  {
+    "productId": "tu-giay",
+    "image": "/images/tu-giay.png",
+    "title": "Tủ giày",
+    "price": 3500000,
+    "discountPrice": 2900000,
+    "room": ["home-office"],
+    "category": "cabinet",
+    "type": "normal",
+    "weight": 50,
+    "width": 1.2,
+    "length": 0.35,
+    "height": 1.1,
+    "materials": null,
+    "colors": [
+      {
+        "name": "Blonde Surfside Ash",
+        "image": "/material-color/K525.jpg",
+        "productImage": "/images/tu-giay.png"
+      },
+      {
+        "name": "Tobacco Franklin Walnut",
+        "image": "/material-color/K547.jpg",
+        "productImage": "/images/tu-giay-nau.png"
+      }
+    ]
+  },
+  {
+    "productId": "ban-lam-viec",
+    "image": "/images/ban-lam-viec.png",
+    "title": "Bàn làm việc",
+    "price": 3200000,
+    "discountPrice": 2660000,
+    "room": ["home-office"],
+    "category": "table",
+    "type": "normal",
+    "weight": 30,
+    "width": 1.2,
+    "length": 0.6,
+    "height": 0.75,
+    "materials": null,
+    "colors": [
+      {
+        "name": "Blonde Surfside Ash",
+        "image": "/material-color/K525.jpg",
+        "productImage": "/images/ban-lam-viec.png"
+      },
+      {
+        "name": "Tobacco Franklin Walnut",
+        "image": "/material-color/K547.jpg",
+        "productImage": "/images/ban-lam-viec-nau.png"
+      }
+    ]
+  },
+  {
+    "productId": "ghe-an",
+    "image": "/images/ghe-an.png",
+    "title": "Ghế ăn",
+    "price": 1200000,
+    "discountPrice": 1000000,
+    "room": ["kitchen"],
+    "category": "chair",
+    "type": "normal",
+    "weight": 8,
+    "width": 0.45,
+    "length": 0.45,
+    "height": 0.9,
+    "materials": ["Vải linen", "Vải nhung", "Da tổng hợp"],
+    "colors": [
+      {
+        "name": "Blonde Surfside Ash",
+        "image": "/material-color/K525.jpg",
+        "productImage": "/images/ghe-an.png"
+      },
+      {
+        "name": "Tobacco Franklin Walnut",
+        "image": "/material-color/K547.jpg",
+        "productImage": "/images/ghe-an-nau.png"
+      }
+    ]
+  },
+  {
+    "productId": "ghe-sofa-don",
+    "image": "/images/ghe-sofa-don.png",
+    "title": "Sofa đơn",
+    "price": 4200000,
+    "discountPrice": 3490000,
+    "room": ["living-room"],
+    "category": "sofa",
+    "type": "normal",
+    "weight": 35,
+    "width": 0.9,
+    "length": 0.85,
+    "height": 0.85,
+    "materials": ["Vải linen", "Vải nhung", "Da tổng hợp"],
+    "colors": [
+      {
+        "name": "Blonde Surfside Ash",
+        "image": "/material-color/K525.jpg",
+        "productImage": "/images/sofa-don.png"
+      },
+      {
+        "name": "Tobacco Franklin Walnut",
+        "image": "/material-color/K547.jpg",
+        "productImage": "/images/sofa-don-nau.png"
+      }
+    ]
+  },
+  {
+    "productId": "ke-sach",
+    "image": "/images/ke-sach.png",
+    "title": "Kệ sách",
+    "price": 3900000,
+    "discountPrice": 3240000,
+    "room": ["home-office"],
+    "category": "other",
+    "type": "normal",
+    "weight": 55,
+    "width": 0.8,
+    "length": 0.35,
+    "height": 1.8,
+    "materials": null,
+    "colors": [
+      {
+        "name": "Blonde Surfside Ash",
+        "image": "/material-color/K525.jpg",
+        "productImage": "/images/ke-sach.png"
+      },
+      {
+        "name": "Tobacco Franklin Walnut",
+        "image": "/material-color/K547.jpg",
+        "productImage": "/images/ke-sach-nau.png"
+      }
+    ]
+  },
+  {
+    "productId": "tu-bep-duoi",
+    "image": "/images/tu-bep-duoi.png",
+    "title": "Tủ bếp dưới",
+    "price": 6000000,
+    "discountPrice": 4980000,
+    "room": ["kitchen"],
+    "category": "cabinet",
+    "type": "normal",
+    "weight": 110,
+    "width": 1.8,
+    "length": 0.6,
+    "height": 0.85,
+    "materials": null,
+    "colors": [
+      {
+        "name": "Blonde Surfside Ash",
+        "image": "/material-color/K525.jpg",
+        "productImage": "/images/tu-bep-duoi.png"
+      },
+      {
+        "name": "Tobacco Franklin Walnut",
+        "image": "/material-color/K547.jpg",
+        "productImage": "/images/tu-bep-duoi-nau.png"
+      }
+    ]
+  },
+  {
+    "productId": "tu-bep-tren",
+    "image": "/images/tu-bep-tren.png",
+    "title": "Tủ bếp trên",
+    "price": 4500000,
+    "discountPrice": 3740000,
+    "room": ["kitchen"],
+    "category": "cabinet",
+    "type": "normal",
+    "weight": 70,
+    "width": 1.8,
+    "length": 0.35,
+    "height": 0.7,
+    "materials": null,
+    "colors": [
+      {
+        "name": "Blonde Surfside Ash",
+        "image": "/material-color/K525.jpg",
+        "productImage": "/images/tu-bep-tren.png"
+      },
+      {
+        "name": "Tobacco Franklin Walnut",
+        "image": "/material-color/K547.jpg",
+        "productImage": "/images/tu-bep-tren-nau.png"
+      }
+    ]
+  },
+  {
+    "productId": "ban-hoc-sinh",
+    "image": "/images/ban-hoc-sinh.png",
+    "title": "Bàn học sinh",
+    "price": 2400000,
+    "discountPrice": 1990000,
+    "room": ["home-office"],
+    "category": "table",
+    "type": "normal",
+    "weight": 25,
+    "width": 1.2,
+    "length": 0.55,
+    "height": 0.75,
+    "materials": null,
+    "colors": [
+      {
+        "name": "Blonde Surfside Ash",
+        "image": "/material-color/K525.jpg",
+        "productImage": "/images/ban-hoc.png"
+      },
+      {
+        "name": "Tobacco Franklin Walnut",
+        "image": "/material-color/K547.jpg",
+        "productImage": "/images/ban-hoc-nau.png"
+      }
+    ]
+  },
+  {
+    "productId": "giuong-tang",
+    "image": "/images/giuong-tang.png",
+    "title": "Giường tầng",
+    "price": 9800000,
+    "discountPrice": 8130000,
+    "room": ["bed-room"],
+    "category": "bed",
+    "type": "normal",
+    "weight": 150,
+    "width": 1.0,
+    "length": 2.0,
+    "height": 1.65,
+    "materials": null,
+    "colors": [
+      {
+        "name": "Blonde Surfside Ash",
+        "image": "/material-color/K525.jpg",
+        "productImage": "/images/giuong-tang.png"
+      },
+      {
+        "name": "Tobacco Franklin Walnut",
+        "image": "/material-color/K547.jpg",
+        "productImage": "/images/giuong-tang-nau.png"
+      }
+    ]
+  },
+  {
+    "productId": "ban-cong-so",
+    "image": "/images/ban-cong-so.png",
+    "title": "Bàn công sở",
+    "price": 3600000,
+    "discountPrice": 2990000,
+    "room": ["home-office"],
+    "category": "table",
+    "type": "normal",
+    "weight": 35,
+    "width": 1.4,
+    "length": 0.7,
+    "height": 0.75,
+    "materials": null,
+    "colors": [
+      {
+        "name": "Blonde Surfside Ash",
+        "image": "/material-color/K525.jpg",
+        "productImage": "/images/ban-cong-so.png"
+      },
+      {
+        "name": "Tobacco Franklin Walnut",
+        "image": "/material-color/K547.jpg",
+        "productImage": "/images/ban-cong-so-nau.png"
+      }
+    ]
+  },
+  {
+    "productId": "ke-dau-giuong",
+    "image": "/images/ke-dau-giuong.png",
+    "title": "Kệ đầu giường",
+    "price": 1800000,
+    "discountPrice": 1490000,
+    "room": ["bed-room"],
+    "category": "other",
+    "type": "normal",
+    "weight": 15,
+    "width": 0.45,
+    "length": 0.4,
+    "height": 0.5,
+    "materials": null,
+    "colors": [
+      {
+        "name": "Blonde Surfside Ash",
+        "image": "/material-color/K525.jpg",
+        "productImage": "/images/ke-dau-giuong.png"
+      },
+      {
+        "name": "Tobacco Franklin Walnut",
+        "image": "/material-color/K547.jpg",
+        "productImage": "/images/ke-dau-giuong-nau.png"
+      }
+    ]
+  },
+  {
+    "productId": "ban-console",
+    "image": "/images/ban-console.png",
+    "title": "Bàn console",
+    "price": 3200000,
+    "discountPrice": 2660000,
+    "room": ["living-room"],
+    "category": "table",
+    "type": "normal",
+    "weight": 28,
+    "width": 1.2,
+    "length": 0.35,
+    "height": 0.8,
+    "materials": null,
+    "colors": [
+      {
+        "name": "Blonde Surfside Ash",
+        "image": "/material-color/K525.jpg",
+        "productImage": "/images/ban-console.png"
+      },
+      {
+        "name": "Tobacco Franklin Walnut",
+        "image": "/material-color/K547.jpg",
+        "productImage": "/images/ban-console-nau.png"
+      }
+    ]
+  }
+]
